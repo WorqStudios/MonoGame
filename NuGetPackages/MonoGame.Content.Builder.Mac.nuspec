@@ -15,6 +15,6 @@
     <language>en-US</language>
   </metadata>
   <files>
-    <file src="../Tools/MGCB/bin/MacOS/AnyCPU/Release/**/*" exclude="../Tools/MGCB/bin/MacOS/AnyCPU/Release/MGCB.app/**/*" target="build" />
+    <file src="..\..\Tools\MGCB\bin\MacOS\AnyCPU\Release\**\*" exclude="..\..\Tools\MGCB\bin\MacOS\AnyCPU\Release\MGCB.app\**\*" target="build" />
   </files>
 </package>
